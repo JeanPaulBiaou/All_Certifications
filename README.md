@@ -27,22 +27,22 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
 ## Certifications en Data Science et Programmation
 
 ### Python for Data Science
-- **Accomplie en** : [Date accomplissement, Janvier 2023]
+- **Accomplie en** : [Date accomplissement, Mars 2023]
 - **Compétences acquises** :
   - Manipulation et nettoyage de données avec Pandas.
   - Analyse statistique et visualisation des données avec Matplotlib et Seaborn.
   - Application de techniques de machine learning de base pour l’analyse prédictive.
   - Automatisation de processus de traitement de données pour des projets de grande envergure.
-- **Lien vers la certification** : [Télécharger le certificat Python for Data Science](https://github.com/ton_nom_utilisateur/nom_du_depot/chemin_vers_fichier_Python.pdf)
+- **Lien vers la certification** : [Télécharger le certificat Python for Data Science](https://github.com/JeanPaulBiaou/All_Certifications/blob/main/Datacamp_accomplishment_python.pdf)
 
 ### Certification en Analyse de Données avec R
-- **Accomplie en** : [Date accomplissement, Janvier 2023]
+- **Accomplie en** : [Date accomplissement, Mars 2023]
 - **Compétences acquises** :
   - Maîtrise des bases du langage R pour la manipulation et l’analyse de données.
   - Visualisation de données avec ggplot2 et autres packages graphiques.
   - Modélisation statistique pour l’analyse descriptive et inférentielle.
   - Création de rapports automatisés avec RMarkdown.
-- **Lien vers la certification** : [Télécharger le certificat R](https://github.com/ton_nom_utilisateur/nom_du_depot/chemin_vers_fichier_R.pdf)
+- **Lien vers la certification** : [Télécharger le certificat R](https://github.com/JeanPaulBiaou/All_Certifications/blob/main/Datacamp_accomplishment_R.pdf)
 
 ---
 
