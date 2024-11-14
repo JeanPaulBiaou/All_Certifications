@@ -20,7 +20,7 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
   - Développement et maintenance de modèles de données dans Power BI.
   - Transformation et préparation des données pour des analyses approfondies.
   - Analyse avancée des données pour tirer des insights commerciaux.
-- **Lien vers la certification** : [Télécharger le certificat PL-300](***)
+- **Lien vers la certification** : [Télécharger le certificat PL-300](https://github.com/JeanPaulBiaou/All_Certifications/blob/main/Certification_PowerBI.pdf)
 
 ---
 
