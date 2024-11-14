@@ -1,5 +1,5 @@
 # All_Certifications
-# Portfolio de Certifications de [jeanpaulbiaou]
+# Portfolio de Certifications de Jean Paul BIAOU
 Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifications obtenues dans les domaines de l'analyse de données, de la gestion de projets, et d'autres compétences techniques et professionnelles. Ces certificats reflètent mon engagement envers l'apprentissage continu et ma maîtrise des outils et méthodologies clés dans mon domaine.
 
 ## Table des Matières
