@@ -8,6 +8,12 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
 - [Accomplissement (datacamp) en Data Science et Programmation](#accomplissement-en-data-science-et-programmation)
   - [Python for Data Science](#python-for-data-science)
   - [Analyse de Données avec R](#accomplissement-en-analyse-de-données-avec-r)
+- [Certifications en Gestion de Projets](#certifications-en-gestion-de-projets)
+  - [Google Agile Project Management](#google-agile-project-management)
+- [Certifications en Conformité et Protection des Données](#certifications-en-conformité-et-protection-des-données)
+  - [Certification RGPD (Règlement Général sur la Protection des Données)](#certification-rgpd-règlement-général-sur-la-protection-des-données)
+- [Certifications en Langues](#certifications-en-langues)
+  - [Formation Linguistique Diplômante en Anglais - Niveau B1](#formation-linguistique-diplômante-en-anglais---niveau-b1)
 
 ---
 
