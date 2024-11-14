@@ -90,7 +90,7 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
   - Formation linguistique approfondie, développant des compétences en communication écrite et orale en anglais.
   - Passage du Diplôme Linguaskill en 2022, certifiant les compétences linguistiques au niveau B1 selon le Cadre Européen Commun de Référence (CECR).
 - **Date d'obtention** : 8 décembre 2022
-- **Lien vers la certification** : [Télécharger le certificat de formation linguistique en anglais](https://github.com/ton_nom_utilisateur/nom_du_depot/chemin_vers_fichier_Linguaskill.pdf)
+- **Lien vers la certification** : [Télécharger le certificat de formation linguistique en anglais](https://github.com/JeanPaulBiaou/All_Certifications/blob/main/Certification_linguistique_Afterschool%20.pdf)
 
 
 
