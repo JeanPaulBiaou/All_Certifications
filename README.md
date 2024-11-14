@@ -5,7 +5,7 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
 ## Table des Matières
 - [Certifications en Analyse de Données](#certifications-en-analyse-de-données)
   - [Microsoft Power BI Data Analyst Associate (PL-300)](#microsoft-power-bi-data-analyst-associate-pl-300)
-- [Accomplissement (datacamp) en Data Science et Programmation](#certifications-en-data-science-et-programmation)
+- [Accomplissement (datacamp) en Data Science et Programmation](#accomplissement-en-data-science-et-programmation)
   - [Python for Data Science](#python-for-data-science)
   - [Analyse de Données avec R](#accomplissement-en-analyse-de-données-avec-r)
 
@@ -27,7 +27,7 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
 ## Certifications en Data Science et Programmation
 
 ### Python for Data Science
-- **Certifié en** : [Date de Certification, ex. Janvier 2024]
+- **Accomplie en** : [Date accomplissement, Janvier 2023]
 - **Compétences acquises** :
   - Manipulation et nettoyage de données avec Pandas.
   - Analyse statistique et visualisation des données avec Matplotlib et Seaborn.
@@ -36,7 +36,7 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
 - **Lien vers la certification** : [Télécharger le certificat Python for Data Science](https://github.com/ton_nom_utilisateur/nom_du_depot/chemin_vers_fichier_Python.pdf)
 
 ### Certification en Analyse de Données avec R
-- **Certifié en** : [Date de Certification, ex. Février 2024]
+- **Accomplie en** : [Date accomplissement, Janvier 2023]
 - **Compétences acquises** :
   - Maîtrise des bases du langage R pour la manipulation et l’analyse de données.
   - Visualisation de données avec ggplot2 et autres packages graphiques.
