@@ -58,6 +58,19 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
   - Élaboration de stratégies pour l'amélioration continue et la résolution de problèmes.
 - **Lien vers la certification** : [Télécharger le certificat Agile Project Management](https://github.com/JeanPaulBiaou/All_Certifications/blob/main/Certification_me%CC%81thodologie_Agile.pdf)   
 
+---
+
+## Certifications en Conformité et Protection des Données
+
+### Certification RGPD (Règlement Général sur la Protection des Données)
+- **Certifié en** : [Date de Certification, Septembre 2023]
+- **Compétences acquises** :
+  - Connaissance approfondie des principes et obligations du RGPD.
+  - Compréhension des droits des individus en matière de protection des données.
+  - Maîtrise des procédures de conformité et des pratiques de protection des données personnelles.
+  - Application des directives RGPD dans des contextes d'analyse et de traitement de données.
+  - Compétences en gestion des risques liés aux données et en documentation des traitements.
+- **Lien vers la certification** : [Télécharger le certificat RGPD](https://github.com/JeanPaulBiaou/All_Certifications/blob/main/RGPD.pdf)
 
 
 
