@@ -72,6 +72,19 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
   - Compétences en gestion des risques liés aux données et en documentation des traitements.
 - **Lien vers la certification** : [Télécharger le certificat RGPD](https://github.com/JeanPaulBiaou/All_Certifications/blob/main/RGPD.pdf)
 
+---
+
+## Certifications en Langues
+
+### Formation Linguistique Diplômante en Anglais - Niveau B1
+- **Institution** : Université de Cambridge (Linguaskill), reconnu au RNCP
+- **Période de formation** : 2021-2022
+- **Niveau atteint** : B1
+- **Détails** :
+  - Formation linguistique approfondie, développant des compétences en communication écrite et orale en anglais.
+  - Passage du Diplôme Linguaskill en 2022, certifiant les compétences linguistiques au niveau B1 selon le Cadre Européen Commun de Référence (CECR).
+- **Date d'obtention** : 8 décembre 2022
+- **Lien vers la certification** : [Télécharger le certificat de formation linguistique en anglais](https://github.com/ton_nom_utilisateur/nom_du_depot/chemin_vers_fichier_Linguaskill.pdf)
 
 
 
