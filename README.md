@@ -46,6 +46,23 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
 
 ---
 
+## Certifications en Gestion de Projets
+
+### Google Agile Project Management
+- **Certifié en** : [Date de Certification, Septembre 2024]
+- **Compétences acquises** :
+  - Compréhension approfondie des principes et pratiques Agile.
+  - Gestion de sprints, rétrospectives, et planification itérative de projet.
+  - Techniques de gestion d'équipe pour maximiser l'efficacité dans des environnements de projet complexes.
+  - Utilisation d’outils Agile pour le suivi de projet (ex. Jira, Trello).
+  - Élaboration de stratégies pour l'amélioration continue et la résolution de problèmes.
+- **Lien vers la certification** : [Télécharger le certificat Agile Project Management](https://github.com/JeanPaulBiaou/All_Certifications/blob/main/Certification_me%CC%81thodologie_Agile.pdf)   
+
+
+
+
+
+
 ## Contact
 Pour plus d'informations, n'hésitez pas à me contacter ou à visiter mon [LinkedIn](https://www.linkedin.com/in/jeanpaulbiaou23/)
 
