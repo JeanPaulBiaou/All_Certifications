@@ -47,6 +47,6 @@ Bienvenue dans mon portfolio de certifications. Ce dépôt rassemble mes certifi
 ---
 
 ## Contact
-Pour plus d'informations, n'hésitez pas à me contacter ou à visiter mon [LinkedIn](https://www.linkedin.com/in/tonprofil).
+Pour plus d'informations, n'hésitez pas à me contacter ou à visiter mon [LinkedIn](https://www.linkedin.com/in/jeanpaulbiaou23/).
 
 Merci pour votre visite et votre intérêt !
