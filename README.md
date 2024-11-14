@@ -8,9 +8,9 @@ Bienvenue dans mon portfolio de certifications ! Ce dépôt regroupe mes certifi
 ## Table des Matières
 - [Certifications en Analyse de Données](#certifications-en-analyse-de-données)
   - [Microsoft Power BI Data Analyst Associate (PL-300)](#microsoft-power-bi-data-analyst-associate-pl-300)
-- [Certifications en Data Science et Programmation](#certifications-en-data-science-et-programmation)
+- [Accomplissement (datacamp) en Data Science et Programmation](#certifications-en-data-science-et-programmation)
   - [Python for Data Science](#python-for-data-science)
-  - [Certification en Analyse de Données avec R](#certification-en-analyse-de-données-avec-r)
+  - [Analyse de Données avec R](#accomplissement-en-analyse-de-données-avec-r)
 
 ---
 
